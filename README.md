@@ -1,4 +1,5 @@
-<h3 align="center">I'm Aditya Singh Rathore, currently pursuing my 3rd Year in undergrad program.</h3>
+<h1 align="center">Hi 👋,I'm Aditya Singh Rathore</h1>
+<h3 align="center">Currently, I am pursuing my 3rd Year in the undergrad program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasrathore&label=Profile%20views&color=0e75b6&style=flat" alt="adityasrathore" /> </p>
 
